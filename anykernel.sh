@@ -10,12 +10,14 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rmx2020
-device.name2=RMX2020
+device.name1=rmx2040
+device.name2=RMX2040
 device.name3=RMX2027
 device.name4=RMX2191
 device.name5=RMX3171
 device.name6=RMX2193
+device.name7=RMX2020
+device.name8=rmx2020
 supported.versions=
 supported.patchlevels=
 '; } # end properties
